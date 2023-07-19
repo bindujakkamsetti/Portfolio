@@ -963,6 +963,9 @@ img{
   .nav__menu{
     padding: 2rem .25rem 4rem;
   }
+    .imgg{
+    width: 100px;
+  }
   .nav__list{
     column-gap: 0;
   }
@@ -1075,6 +1078,9 @@ img{
   .nav__list{
     display: flex;
     column-gap: 2rem;
+  }
+    .imgg{
+    width: 100px;
   }
   .nav__menu{
     margin-left: auto;
