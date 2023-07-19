@@ -964,7 +964,8 @@ img{
     padding: 2rem .25rem 4rem;
   }
     .imgg{
-    width: 100px;
+    width: 150px;
+    height: 150px;
   }
   .nav__list{
     column-gap: 0;
@@ -989,7 +990,7 @@ img{
     padding-right: 3.5rem;
   }
     .cer__content{
-    
+    padding-right: 3.5rem;
   }
   .services__model{
     padding: 0 .5rem;
